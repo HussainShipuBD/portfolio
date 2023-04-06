@@ -19,3 +19,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+***** Notes about project ********
+- this is my main portfolio. It almost done. Did have responsive (mobile, ipad and large desktop 1920 version).
