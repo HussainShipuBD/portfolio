@@ -1,0 +1,210 @@
+/*===== Medium Desktop =====*/
+@media only screen and (max-width: 1400px) {
+/* Common */
+/* ._1content {
+    position: relative;
+    padding-top: 54px;
+} */
+._btn_large {
+    line-height: 44px !important;
+    height: 44px !important;
+    padding: 0px 20px;
+    font-size: 16px !important;
+}
+._2btn {
+    width: 234px;
+}
+._1btn {
+    padding: 0 24px;
+    height: 42px;
+    line-height: 42;
+}
+/* Common */
+
+/* menu */
+._1menu_list_text {
+    font-size: 14px;
+    line-height: 28px;
+}
+._1menu_list li {
+    margin-right: 28px;
+}
+._1menu {
+    padding: 10px 25px;
+    z-index: 111;
+}
+/* menu */
+
+/* home */
+._1banner_profile_pic {
+    width: 576px;
+}
+._1banner_text {
+    font-size: 20px;
+    line-height: 28px;
+}
+._1banner_social_icon svg {
+    height: 18px;
+}
+._1banner_social_icon {
+    height: 46px;
+    width: 46px;
+}
+._1banner_social_icon::before {
+    height: 45px;
+    width: 45px;
+}
+._1banner_title {
+    font-size: 145px;
+    line-height: 143px;
+}
+._1banner {
+    padding: 172px 0 139px;
+}
+._1banner_profile_pic {
+    width: 436px;
+}
+._1banner_title span {
+    height: 104px;
+    width: 104px;
+}
+._1banner_title span::before {
+    height: 69px;
+    width: 69px;
+}
+._home_2title {
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 12px;
+}
+._home_des {
+    padding: 80px 35px 80px;
+}
+._home_des_text {
+    font-size: 35px;
+    line-height: 52px;
+}
+._home_title {
+    font-size: 52px;
+    line-height: 32px;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+}
+._home_ser_subtitle {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 16px;
+}
+._home_ser_type {
+    font-size: 25px;
+    line-height: 32px;
+    margin-bottom: 12px;
+}
+._home_ser_type span {
+    font-size: 12px;
+    margin-left: 23px;
+}
+._home_ser {
+    padding: 80px 35px 78px;
+}
+._home_proj {
+    padding: 80px 35px 80px;
+}
+._home_intro {
+    padding: 80px 0 80px;
+}
+._home_contact {
+    padding: 80px 0 140px;
+}
+._home_contact_text {
+    font-size: 57px;
+    line-height: 75px;
+}
+._home_contact_info_text {
+    font-size: 22px;
+    line-height: 24px;
+}
+._home_contact_info_icon {
+    height: 42px;
+    width: 42px;
+    margin-bottom: 10px;
+}
+._home_contact_info {
+    margin-bottom: 25px;
+}
+._1card_title {
+    font-size: 28px;
+    line-height: 35px;
+    margin-bottom: 4px;
+}
+._1card_web {
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 8px;
+}
+._1card_text {
+    font-size: 25px;
+    line-height: 38px;
+    margin-bottom: 22px;
+}
+/* home */
+
+/* footer */
+._footer_text {
+    font-size: 14px;
+    line-height: 20px;
+}
+._footer {
+    padding: 15px 0 17px;
+}
+/* footer */
+
+}
+/*===== Medium Desktop =====*/
+
+
+/*===== Ipad pro ======*/
+@media only screen and (min-width: 1024px) and (max-width: 1366px) {
+
+}
+/*===== Ipad pro ======*/
+
+/*===== Ipad ====*/
+@media only screen and (min-width: 768px) and (max-width: 1050px) {
+
+    
+}
+/*===== Ipad ====*/
+
+/*===== Mobile =====*/   
+@media only screen and (max-width: 765px) {
+._mob_menu_nav {
+    display: block;
+}
+._mob_menu {
+    display: flex;
+}
+._1menu {
+    display: none;
+}
+._1menu_list li {
+    display: block;
+    padding-left: 15px;
+    padding-top: 10px;
+}  
+._mob_menu._1menu_fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+} 
+}
+
+@media only screen and (max-width: 350px) {
+
+
+} 
+/*===== Mobile =====*/
+
+
+
